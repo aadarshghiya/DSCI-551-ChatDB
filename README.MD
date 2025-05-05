@@ -61,13 +61,13 @@ Follow these steps to set up and run the application:
     * The application should start, and you'll see output similar to:
 
         ```
-        \* Serving Flask app "app"
-        \* Debug mode: on
+        * Serving Flask app "app"
+        * Debug mode: on
           WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
-        \* Running on [http://127.0.0.1:5000/](http://127.0.0.1:5000/) (Press CTRL+C to quit)
-        \* Restarting with watchdog (fsevents)
-        \* Debugger is active!
-        \* Debugger PIN: xxx-xxx-xxx
+        * Running on [http://127.0.0.1:5000/](http://127.0.0.1:5000/) (Press CTRL+C to quit)
+        * Restarting with watchdog (fsevents)
+        * Debugger is active!
+        * Debugger PIN: xxx-xxx-xxx
         ```
 
 4.  **Access the Application:**
